@@ -1,2 +1,2 @@
 # shopify-square-integration
-Discover how SKUplugs’ Shopify Square integration streamlines your sales, inventory, and operations for seamless business growth.
+SKUplugs’ Shopify Square integration offers a powerful solution to connect your Shopify store with Square, enabling real-time synchronization of sales, inventory, and customer data. Streamline your business operations, improve accuracy, and boost efficiency with this seamless integration designed to help your business grow effortlessly and stay ahead of the competition.
